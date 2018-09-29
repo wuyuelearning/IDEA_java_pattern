@@ -1,6 +1,6 @@
 package patterns.singleton;
 
-public class Test {
+public class SingletonTest {
     public static void main(String[] args){
         Singleton1 singleton1 =Singleton1.getSingleton();
         Singleton1 singleton2 =Singleton1.getSingleton();
