@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f0602b6-2210-4b31-9a5c-d7e64397a1d1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/des.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_class/FiveVolt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_class/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_class/Volt220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_class/VoltAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_object/FiveVolt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_object/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_object/Volt220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/adapter/to_object/VoltAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/ConcreteColleagueA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/ConcreteColleagueB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/common/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/des.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/CDDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/GraphicsCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/MainBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/SoundCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/medaitor/simple/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/test/TestEnum$TYPE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/test/TestEnum$TYPE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/test/TestEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/test/TestEnum.class" afterDir="false" />
-    </list>
+    <list default="true" id="6f0602b6-2210-4b31-9a5c-d7e64397a1d1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +27,7 @@
     <session id="-1838522824">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
@@ -100,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="80" />
+            <state relative-caret-position="372">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1876#1877#0" expanded="true" />
@@ -284,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542360033171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542595040794" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -459,12 +430,12 @@
       <workItem from="1541052818857" duration="3873000" />
       <workItem from="1541144454707" duration="3783000" />
       <workItem from="1541399449745" duration="141000" />
-      <workItem from="1542184790449" duration="28030000" />
+      <workItem from="1542184790449" duration="28107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186396000" />
+    <option name="totallyTimeSpent" value="186473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,7 +448,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -486,7 +456,7 @@
       <window_info id="Structure" order="4" sideWeight="0.50167227" side_tool="true" weight="0.15884861" />
       <window_info id="Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50162864" side_tool="true" weight="0.15884861" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32887402" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32887402" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053304" side_tool="true" weight="0.19543974" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
@@ -497,7 +467,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49946696" visible="true" weight="0.3154961" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49946696" weight="0.3154961" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -994,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="80" />
+        <state relative-caret-position="372">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1876#1877#0" expanded="true" />
