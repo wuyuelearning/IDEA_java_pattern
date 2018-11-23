@@ -10,8 +10,14 @@ import java.text.NumberFormat;
 public class Test {
     public static void main(String[] args) {
 
-        fun1();
+//        fun1();
 
+        fun2();
+
+    }
+
+    private static void fun2() {
+        IConcrete concrete = new Concrete();
     }
 
 
@@ -65,7 +71,7 @@ public class Test {
 
 
         int it = 100;
-        long it2 = (long)it;
+        long it2 = (long) it;
         fun11(it2);
 
 
