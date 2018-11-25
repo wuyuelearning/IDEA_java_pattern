@@ -1,6 +1,5 @@
 package patterns.template_method.simple;
 
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.Loader;
 
 /**
  * Created by wuyue on 2018/11/23.
