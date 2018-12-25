@@ -1,5 +1,8 @@
 package test;
 
+
+import com.sun.jndi.toolkit.url.Uri;
+
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
@@ -12,7 +15,7 @@ public class Test {
 
 //        fun1();
 
-        fun2();
+//        fun2();
 
     }
 
