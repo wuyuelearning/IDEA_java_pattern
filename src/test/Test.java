@@ -2,10 +2,13 @@ package test;
 
 
 import com.sun.jndi.toolkit.url.Uri;
+import patterns.bridge.simple.Suger;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by wuyue on 2018/11/16.
@@ -17,7 +20,63 @@ public class Test {
 
 //        fun2();
 
+//        Base base = new Sub();
+////        base.fun1(10,"sa");
+//
+//        base.fun2();
+//        Sub sub =new Sub();
+//        sub.fun1(100,20);
+
+//        int count =0;
+//        for (int i=0;i<10;i++){
+//            count= count++;
+//        }
+//        System.out.println(""+count);
+
+//        fun3();
+
+        fun4();
+
     }
+
+    private static void  fun4(){
+
+//        List<Integer> list=new ArrayList<>();
+//        list.add(1);
+//        list.add(2);
+//        list.add(3);
+//        list.add(4);
+//        list.add(null);
+//        for (int i :list){
+//            System.out.println(""+i);
+//        }
+//
+//        for (Integer i :list){
+//            System.out.println(""+((i!=null)?i:0));
+//        }
+
+
+
+        List<String > list=new ArrayList<>();
+        list.add("1");
+        list.add("2");
+        list.add("3");
+        list.add("4");
+        for (String  i :list){
+            System.out.println(i);
+        }
+    }
+
+    private static void fun3() {
+        final int LIMIT = 2000;
+        long  count =2147483634L;
+        if(count+1000<=LIMIT){
+            System.out.println("1==>"+count);
+        } else {
+            System.out.println("2===>");
+        }
+    }
+
 
     private static void fun2() {
         IConcrete concrete = new Concrete();
