@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e327eb9-9e81-418d-830f-2a0cf616b408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/lock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/lock/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/lock/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/lock/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/lock/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/Meizu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/PhoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/TestFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/XiaoMi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Sub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/factory/simple_factory/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/factory/simple_factory/ClientTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Simple/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Simple/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Simple2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/patterns/mvc/Simple2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns/factory/simple_factory/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/factory/simple_factory/ClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,18 +15,18 @@
     <session id="-1838522824">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="75" />
+          <entry key="java" value="76" />
           <entry key="ts" value="1" />
           <entry key="xml" value="5" />
         </counts>
@@ -55,7 +34,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="75" />
+          <entry key="JAVA" value="76" />
           <entry key="TypeScript" value="1" />
           <entry key="XML" value="5" />
         </counts>
@@ -82,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/patterns/factory/client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -99,26 +78,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="55" column="11" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="55" selection-end-column="11" />
+            <state relative-caret-position="1200">
+              <caret line="55" column="11" selection-start-line="53" selection-start-column="9" selection-end-line="55" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1611#1612#0" expanded="true" />
-                <element signature="e#1662#1663#0" expanded="true" />
-                <element signature="e#3301#3302#0" expanded="true" />
-                <element signature="e#3344#3345#0" expanded="true" />
-                <element signature="e#3384#3385#0" expanded="true" />
-                <element signature="e#3427#3428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://H:/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="899" column="39" lean-forward="true" selection-start-line="899" selection-start-column="39" selection-end-line="899" selection-end-column="39" />
+            <state relative-caret-position="21425">
+              <caret line="898" column="48" selection-start-line="898" selection-start-column="48" selection-end-line="898" selection-end-column="48" />
               <folding>
                 <element signature="e#33891#33892#0" expanded="true" />
                 <element signature="e#33919#33920#0" expanded="true" />
@@ -129,10 +102,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/patterns/factory/lock/Main5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://H:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/VM.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="2600">
               <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
             </state>
           </provider>
@@ -202,7 +184,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -213,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,35 +204,17 @@
               <item name="IDEA_java_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDEA_java_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="IDEA_java_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDEA_java_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDEA_java_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDEA_java_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDEA_java_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDEA_java_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="webDriver&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="mai&#9;FILE&#9;file://H:/projects/idea_project/IDEA_java_pattern/src/patterns/factory/lock/Main5.java&#10;webDriver&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547193000750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547206084987" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -365,17 +331,17 @@
       <updated>1545904011352</updated>
       <workItem from="1545904012569" duration="1242000" />
       <workItem from="1546914463140" duration="22771000" />
-      <workItem from="1547110679955" duration="5951000" />
+      <workItem from="1547110679955" duration="6049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45473000" />
+    <option name="totallyTimeSpent" value="45571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -762,17 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/patterns/factory/lock/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/patterns/factory/client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -785,37 +744,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="55" column="11" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="55" selection-end-column="11" />
+        <state relative-caret-position="1200">
+          <caret line="55" column="11" selection-start-line="53" selection-start-column="9" selection-end-line="55" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
-            <element signature="e#1662#1663#0" expanded="true" />
-            <element signature="e#3301#3302#0" expanded="true" />
-            <element signature="e#3344#3345#0" expanded="true" />
-            <element signature="e#3384#3385#0" expanded="true" />
-            <element signature="e#3427#3428#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://H:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/VM.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="jar://H:/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="899" column="39" lean-forward="true" selection-start-line="899" selection-start-column="39" selection-end-line="899" selection-end-column="39" />
+        <state relative-caret-position="21425">
+          <caret line="898" column="48" selection-start-line="898" selection-start-column="48" selection-end-line="898" selection-end-column="48" />
           <folding>
             <element signature="e#33891#33892#0" expanded="true" />
             <element signature="e#33919#33920#0" expanded="true" />
             <element signature="e#34168#34169#0" expanded="true" />
             <element signature="e#34202#34203#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/VM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patterns/factory/lock/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
