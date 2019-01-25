@@ -2,6 +2,7 @@ package test;
 
 
 import com.sun.jndi.toolkit.url.Uri;
+import com.sun.xml.internal.fastinfoset.util.CharArrayIntMap;
 import patterns.bridge.simple.Suger;
 
 import java.math.BigDecimal;
@@ -20,26 +21,34 @@ public class Test {
 
 //        fun2();
 
-//        Base base = new Sub();
-////        base.fun1(10,"sa");
-//
-//        base.fun2();
-//        Sub sub =new Sub();
-//        sub.fun1(100,20);
 
-//        int count =0;
-//        for (int i=0;i<10;i++){
-//            count= count++;
-//        }
-//        System.out.println(""+count);
+        Test test = new Test();
+//        test.fun5();
+        test.fun6();
+//        fun4();
 
-//        fun3();
-
-        fun4();
 
     }
 
-    private static void  fun4(){
+    private void fun6() {
+
+        PersonTest f =new PersonTest("父亲");
+        PersonTest s1 =new PersonTest("大儿子",f);
+        PersonTest s2= CloneUtils.clone(s1);
+
+        s2.setName("小儿子");
+        s1.getFather().setName("干爹");
+        System.out.println(s1.getName()+" -- "+s1.getFather().getName());
+        System.out.println(s2.getName()+" -- "+s2.getFather().getName());
+    }
+
+    private void fun5() {
+        CallBackImpl c = new CallBackImpl();
+
+    }
+
+
+    private static void fun4() {
 
 //        List<Integer> list=new ArrayList<>();
 //        list.add(1);
@@ -56,22 +65,21 @@ public class Test {
 //        }
 
 
-
-        List<String > list=new ArrayList<>();
+        List<String> list = new ArrayList<>();
         list.add("1");
         list.add("2");
         list.add("3");
         list.add("4");
-        for (String  i :list){
+        for (String i : list) {
             System.out.println(i);
         }
     }
 
     private static void fun3() {
         final int LIMIT = 2000;
-        long  count =2147483634L;
-        if(count+1000<=LIMIT){
-            System.out.println("1==>"+count);
+        long count = 2147483634L;
+        if (count + 1000 <= LIMIT) {
+            System.out.println("1==>" + count);
         } else {
             System.out.println("2===>");
         }
